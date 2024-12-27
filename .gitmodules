@@ -1,0 +1,3 @@
+[submodule "CT-cSTC"]
+	path = CT-cSTC
+	url = https://github.com/sametuzun781/CT-cSTC.git
